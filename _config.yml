@@ -28,7 +28,7 @@ theme: jekyll-theme-cayman
 plugins_dir:
   - jekyll-feed
 repository: tarun-pacifica/tarun-pacifica.github.io
-permalink: /blog/:year/:month/:day/:title
+permalink: /amandacv/:slug
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
